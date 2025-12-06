@@ -11,9 +11,9 @@ Verdicto AI is a futuristic, ultra-modern AI-powered legal assistant designed to
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-2.0.0-green.svg)
-
+**Live Demo:** [verdicto-ai-v1.vly.site](https://verdicto-ai-v1.vly.site)
 ---
-Live Demo: verdicto-ai-v1.vly.site
+
 ## 🌟 Key Features
 
 ### Core Capabilities
