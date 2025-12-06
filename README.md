@@ -1,5 +1,5 @@
 # VERDICTO-AI (AI-Powered Legal Assistant)
-# Hackathon Winning Project Of Team A.I.C.A (Team lead. Eldo John Giby) | HackElite (2025) | October 14-15 
+# Hackathon Winning Project Of Team A.I.C.A (Worked as Backened Devoloper) | HackElite (2025) | October 14-15 
 
 
 
@@ -11,7 +11,7 @@ Verdicto AI is a futuristic, ultra-modern AI-powered legal assistant designed to
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-2.0.0-green.svg)
-
+Live link -- verdicto-ai-v1.vly.site
 ---
 
 ## 🌟 Key Features
